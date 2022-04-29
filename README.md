@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ericstahl1
 - 👀 I’m interested in coding!!
-- 🌱 I’m currently learning ruby, html, css and JS
+- 🌱 I’m currently learning ruby, html, css and Java
 
 <!---
 Ericstahl1/Ericstahl1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
